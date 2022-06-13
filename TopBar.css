@@ -1,0 +1,18 @@
+.search-field {
+    width: 240px;
+    position: relative;
+}
+
+.search-field input {
+    width: 100%;
+    background: none;
+    border: none;
+    border-bottom: solid 1px white;
+}
+
+.search-field i {
+    position: absolute;
+    right: 4px;
+    color: white;
+    top: 0;
+}
